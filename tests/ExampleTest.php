@@ -1,6 +1,6 @@
 <?php
 
-namespace ExampleProject;
+namespace MyCoolStarterProject;
 
 use PHPUnit\Framework\TestCase;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace ExampleProject;
+namespace MyCoolStarterProject;
 
 use Symfony\Component\Console\Output\BufferedOutput;
 
